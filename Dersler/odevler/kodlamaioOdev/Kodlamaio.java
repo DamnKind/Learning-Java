@@ -16,6 +16,6 @@ public class Kodlamaio {
         lessonManager.joinProgram(lesson4);
         lessonManager.joinProgram(lesson2);
         lessonManager.exitProgram(lesson2);
-        lessonManager.listMyLessons(); // List lesson which i took
+        lessonManager.listMyLessons(); // List lessons which i took
     }
 }
